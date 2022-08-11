@@ -1,3 +1,5 @@
+# This is the link to this Python Coding Challenge
+# https://www.codewars.com/kata/526d42b6526963598d0004db/train/python
 userinput = input('encrypt or decrypt: ')
 alphabet = 'abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz';
 # print(userinput)
